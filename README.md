@@ -8,10 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Developer;AI+Automation+Engineer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
-</p>
-
 ---
 
 # 🚀 About Me
@@ -89,7 +85,7 @@
 
 <p align="center">
 
-<a href="https://instagram.com/alphahorizon">
+<a href="https://instagram.com/alphahorizon1">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
