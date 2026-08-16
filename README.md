@@ -16,7 +16,6 @@
 - ⚡ Backend Development Enthusiast
 - 🤖 AI Automation & Integrations
 - 📱 Mobile App Development
-- ☁️ Cloud Deployment
 - 🚀 Passionate about building scalable applications.
 
 ---
@@ -35,15 +34,7 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alphacodex143&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alphacodex143&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphacodex143&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=alphacodex143&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -63,7 +54,10 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alphacodex143&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img
+  src="https://github-profile-trophy-fork-two.vercel.app/?username=alphacodex143&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"
+  alt="GitHub Trophies"
+/>
 
 </p>
 
