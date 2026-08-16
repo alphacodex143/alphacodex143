@@ -30,6 +30,16 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="./trophy.svg" alt="GitHub Trophies" />
+
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -45,16 +55,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphacodex143&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="./trophy.svg" alt="GitHub Trophies" />
 
 </p>
 
